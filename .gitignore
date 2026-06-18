@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Raw datasets
+data/Guangzhou/
+data/NIH/
+
+# Large model files
+*.h5
+*.keras
+*.ckpt
+*.pb
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
