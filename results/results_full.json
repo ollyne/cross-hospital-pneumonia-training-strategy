@@ -1,0 +1,86 @@
+{
+  "S1_Frozen": {
+    "in_domain": {
+      "Accuracy": 0.9347226478700582,
+      "BalancedAccuracy": 0.5,
+      "AUROC": 0.6427661048256753,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "Specificity": 1.0,
+      "F1": 0.0,
+      "TN": 3050,
+      "FP": 0,
+      "FN": 213,
+      "TP": 0
+    },
+    "out_domain": {
+      "Accuracy": 0.375,
+      "BalancedAccuracy": 0.5,
+      "AUROC": 0.7766272189349113,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "Specificity": 1.0,
+      "F1": 0.0,
+      "TN": 234,
+      "FP": 0,
+      "FN": 390,
+      "TP": 0
+    }
+  },
+  "S2_Partial": {
+    "in_domain": {
+      "Accuracy": 0.9347226478700582,
+      "BalancedAccuracy": 0.5,
+      "AUROC": 0.6510952051104442,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "Specificity": 1.0,
+      "F1": 0.0,
+      "TN": 3050,
+      "FP": 0,
+      "FN": 213,
+      "TP": 0
+    },
+    "out_domain": {
+      "Accuracy": 0.375,
+      "BalancedAccuracy": 0.5,
+      "AUROC": 0.7420666228358536,
+      "Precision": 0.0,
+      "Recall": 0.0,
+      "Specificity": 1.0,
+      "F1": 0.0,
+      "TN": 234,
+      "FP": 0,
+      "FN": 390,
+      "TP": 0
+    }
+  },
+  "S3_FullFT_CW_Aug": {
+    "in_domain": {
+      "Accuracy": 0.8464603125957708,
+      "BalancedAccuracy": 0.5401262218117447,
+      "AUROC": 0.5754744862618333,
+      "Precision": 0.10869565217391304,
+      "Recall": 0.18779342723004694,
+      "Specificity": 0.8924590163934426,
+      "F1": 0.13769363166953527,
+      "TN": 2722,
+      "FP": 328,
+      "FN": 173,
+      "TP": 40
+    },
+    "out_domain": {
+      "Accuracy": 0.3733974358974359,
+      "BalancedAccuracy": 0.4944444444444444,
+      "AUROC": 0.5304952881875958,
+      "Precision": 0.4444444444444444,
+      "Recall": 0.010256410256410256,
+      "Specificity": 0.9786324786324786,
+      "F1": 0.020050125313283207,
+      "TN": 229,
+      "FP": 5,
+      "FN": 386,
+      "TP": 4
+    }
+  }
+}
